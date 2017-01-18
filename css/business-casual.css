@@ -28,12 +28,12 @@ h6 {
 p {
     font-size: 1.25em;
     line-height: 1.6;
-    color: #000;
+    color: saddlebrown;
 }
 
 hr {
     max-width: 400px;
-    border-color: #999999;
+    border-color: saddlebrown;
 }
 
 .brand,
@@ -80,7 +80,7 @@ hr {
 .box {
     margin-bottom: 20px;
     padding: 30px 15px;
-    background: #fff;
+    background: grey;
     background: rgba(255,255,255,0.9);
 }
 
